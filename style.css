@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+#container {
+    margin: auto auto;
+    height: 600px;
+    width: 800px;
+    background-color:rgb(247, 242, 231);
+    border: 1px solid black;
+    
+}
+#cabecalho {
+    text-align: center;
+    margin: 50px;
+}
+#menu, #rodape{
+    margin: 10px;
+}
+
+#menu a {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+}
+#rodape {
+ margin-top: 75px;
+}
+
+#rodape p {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.logo {
+    margin: 30px;
+}
